@@ -5,36 +5,10 @@ import keyCommon from '../../assets/store/key.png';
 export const keyData = [
   {
     id: 'key_vote',
-    name: 'Vote Crate Key',
-    price: 1.50,
+    name: 'Chat Tags',
+    price: 0.50,
     image: keyCommon,
-    description: "Dapatkan item basic resource dan uang in-game.",
+    description: "Click below to view a list of our Chat Tags, Starting at only $0.50",
     amount: 1
   },
-  {
-    id: 'key_rare',
-    name: 'Rare Crate Key',
-    price: 4.50,
-    image: keyCommon,
-    description: "Kesempatan mendapatkan gear enchant level menengah.",
-    amount: 1,
-    isPopular: true
-  },
-  {
-    id: 'key_mythic',
-    name: 'Mythic Crate Key',
-    price: 9.99,
-    image: keyCommon,
-    description: "Gacha tier tertinggi! Berisi item legendary dan rank upgrade.",
-    amount: 1
-  },
-  {
-    id: 'key_bundle',
-    name: '5x Mythic Bundle',
-    price: 39.99,
-    image: keyCommon,
-    description: "Paket hemat 5 kunci Mythic sekaligus.",
-    amount: 5,
-    discount: "20% OFF"
-  }
 ];
