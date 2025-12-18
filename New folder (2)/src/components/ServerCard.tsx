@@ -27,7 +27,7 @@ export default function ServerCard({ name, description, image, players, status, 
               <div className="h-2.5 w-2.5 rounded-full bg-[#27C93F] border border-black/20"></div> {/* Green */}
             </div>
             <div className="flex-1 text-center text-[10px] font-mono text-white/40 tracking-wider">
-              {name.toLowerCase().replace(/\s+/g, '-')}.moonveil.net
+              {name.toLowerCase().replace(/\s+/g, '-')}.tbfmc.com
             </div>
           </div>
 
