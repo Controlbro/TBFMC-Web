@@ -6,33 +6,25 @@ import feature4 from '../assets/feature/4.webp';
 
 const features = [
   {
-    icon: Coins,
-    title: 'Nested Economy',
-    description: 'Deeply integrated economy system allowing you to manage multiple currency streams contextually.',
+    icon: Sparkles,
+    title: 'Webmap',
+    description: 'View yours and others Builds, Claims, and more with our fully integrated Webmap!',
     image: feature1,
     color: "text-green-600",
     gradient: "from-green-200 to-green-100"
   },
   {
     icon: ShoppingBag,
-    title: 'Global Market',
-    description: 'Expect 2–3× faster trading with our optimized GUI marketplace. Sell rare loot instantly.',
+    title: 'No P2W',
+    description: 'No webstore so you wont have to worry about P2W!',
     image: feature2,
     color: "text-blue-600",
     gradient: "from-blue-200 to-blue-100"
   },
   {
-    icon: Sparkles,
-    title: 'Custom Enchants',
-    description: 'Enhance your gear with over 200+ unique enchantments populated from external custom data sources.',
-    image: feature3,
-    color: "text-purple-600",
-    gradient: "from-purple-200 to-purple-100"
-  },
-  {
     icon: Users,
-    title: 'Thriving Community',
-    description: 'The new community system adds support for guilds, clan wars, and temporary alliances.',
+    title: 'Land Claim',
+    description: 'Create claims and invite others!',
     image: feature4,
     color: "text-orange-600",
     gradient: "from-orange-200 to-orange-100"
@@ -51,7 +43,7 @@ export default function Feature() {
              Introducing some
           </div>
           <h2 className="text-4xl sm:text-5xl font-bold text-[var(--color-navy-900)]">
-             New <span className="font-black">Moonveil</span> Features!
+             New <span className="font-black">TBFMC</span> Features!
           </h2>
         </div>
 
