@@ -8,41 +8,14 @@ import { Globe, Cloud, Skull, Palette } from 'lucide-react';
 
 const servers = [
   {
-    name: "Survival Earth",
-    description: "Experience classic Survival gameplay with a balanced economy, land claiming, and a friendly community. Build your empire now!",
+    name: "Survival",
+    description: "Experience classic vanilla Survival gameplay with Laim Claim, No TP, and a Webmap!",
     image: survivalImage,
     icon: <Globe className="w-6 h-6 text-[var(--color-gold-500)]" />,
     players: 1240,
     status: "online" as const,
-    tags: ["Economy", "PvE", "Quest"]
+    tags: ["Vanilla", "PvE", "Survival"]
   },
-  {
-    name: "Skyblock Galaxy",
-    description: "Start with a single block in the sky and expand your island into a massive automated factory. Features minions and custom enchants!",
-    image: skyblockImage,
-    icon: <Cloud className="w-6 h-6 text-[var(--color-gold-500)]" />,
-    players: 856,
-    status: "online" as const,
-    tags: ["Tycoon", "Grind", "Sky"]
-  },
-  {
-    name: "Donut SMP",
-    description: "The most brutal Lifesteal SMP! Steal hearts from other players, griefing is allowed. Become the ultimate ruler of the server.",
-    image: donutImage,
-    icon: <Skull className="w-6 h-6 text-[var(--color-gold-500)]" />,
-    players: 2300,
-    status: "online" as const,
-    tags: ["Lifesteal", "PvP", "Hardcore"]
-  },
-  {
-    name: "Creative Plots",
-    description: "Unleash your creativity without limits. Huge plots, WorldEdit access, and weekly building contests with amazing rewards.",
-    image: creativeImage,
-    icon: <Palette className="w-6 h-6 text-[var(--color-gold-500)]" />,
-    players: 432,
-    status: "maintenance" as const,
-    tags: ["Build", "Art", "Contest"]
-  }
 ];
 
 export default function Servers() {
