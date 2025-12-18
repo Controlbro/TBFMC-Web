@@ -23,7 +23,7 @@ export default function VotePage() {
                 <span className="text-sm font-bold text-slate-500 tracking-widest uppercase font-sans">Support The Server</span>
             </div>
             <h1 className="text-5xl md:text-6xl font-bold text-[var(--color-navy-900)] mb-6">
-                Vote for <span className="text-[var(--color-gold-500)]">Moonveil</span>
+                Vote for <span className="text-[var(--color-gold-500)]">TBFMC</span>
             </h1>
             <p className="text-lg text-slate-500 font-sans max-w-2xl mx-auto leading-relaxed">
                 Voting helps us grow and gain more players! As a thank you, you will receive rewards in-game for every vote.
