@@ -5,42 +5,42 @@ import Button from '../components/ui/Button';
 
 const reviews = [
   {
-    quote: "Moonveil has completely changed my survival experience. The economy is perfectly balanced, and the community is super chill.",
+    quote: "TBFMC has completely changed my survival experience. The economy is perfectly balanced, and the community is super chill.",
     author: "AlexSteve_99",
     role: "Survival Expert",
     handle: "@alexsteve",
     avatar: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=100&auto=format&fit=crop"
   },
   {
-    quote: "Finally a server that doesn't feel pay-to-win. The custom enchants add so much depth to the PVP!",
+    quote: "Finally a server that doesn't feel pay-to-win.",
     author: "PvP_Master",
     role: "Clan Leader",
     handle: "@pvpmaster",
     avatar: "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=100&auto=format&fit=crop"
   },
   {
-    quote: "The builds on this server are insane! I love the creative plots and the weekly contests. Staff is very helpful too.",
+    quote: "The builds on this server are insane! Staff is very helpful too.",
     author: "BuilderBob",
     role: "Architect",
     handle: "@bob_builds",
     avatar: "https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=100&auto=format&fit=crop"
   },
   {
-    quote: "I've been playing Skyblock here for 3 months straight. The automation mechanics are addictive.",
+    quote: "I've been playing here for 3 months straight.",
     author: "RedstonePro",
     role: "Redstone Engineer",
     handle: "@redstone_wiz",
     avatar: "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=100&auto=format&fit=crop"
   },
   {
-    quote: "Best SMP experience in 2024. Period.",
+    quote: "Best SMP experience in 2025. Period.",
     author: "DiamondHunter",
     role: "Veteran Player",
     handle: "@dhunter",
     avatar: "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=100&auto=format&fit=crop"
   },
   {
-    quote: "The layout and UI of the server store is clean, and receiving items is instant. Great infrastructure.",
+    quote: "Great infrastructure.",
     author: "TechSavvy",
     role: "Server Admin",
     handle: "@tech_minecraft",
