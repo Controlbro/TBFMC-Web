@@ -14,7 +14,7 @@ export default function StorePage() {
   // Menu Items Config
   const menuItems = [
     { id: 'ranks', label: 'Ranks', icon: Crown },
-    { id: 'keys', label: 'Crate Keys', icon: Key },
+    { id: 'keys', label: 'Other', icon: Key },
   ];
 
   return (
@@ -146,9 +146,16 @@ export default function StorePage() {
                                     ))}
                                 </ul>
 
-                                <Button variant="primary" size="sm" className="w-full">
-                                    Add to Cart
-                                </Button>
+<Button
+  variant="primary"
+  size="sm"
+  className="w-full"
+  onClick={() => {
+    window.location.href = 'https://store.tbfmc.com';
+  }}
+>
+  Add to Cart
+</Button>
                             </div>
                         </div>
                     ))}
@@ -180,9 +187,17 @@ export default function StorePage() {
                                     {item.description}
                                 </p>
 
-                                <Button variant="primary" size="sm" className="w-full">
-                                    View all
-                                </Button>
+<Button
+  variant="primary"
+  size="sm"
+  className="w-full"
+  onClick={() => {
+    window.location.href = 'https://store.tbfmc.com';
+  }}
+>
+  View all
+</Button>
+
                             </div>
                         </div>
                     ))}
