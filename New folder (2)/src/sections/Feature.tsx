@@ -16,7 +16,7 @@ const features = [
   {
     icon: ShoppingBag,
     title: 'No P2W',
-    description: 'No webstore so you wont have to worry about P2W!',
+    description: 'All of our purchasables grant no gameplay advantages and are purely cosmetic.',
     image: feature2,
     color: "text-blue-600",
     gradient: "from-blue-200 to-blue-100"
