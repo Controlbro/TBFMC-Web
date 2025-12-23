@@ -9,7 +9,7 @@ import { Globe, Cloud, Skull, Palette } from 'lucide-react';
 const servers = [
   {
     name: "Survival",
-    description: "Experience classic vanilla Survival gameplay with Laim Claim, No TP, and a Webmap!",
+    description: "Experience classic vanilla Survival gameplay with Land Claim, No TP, and a Webmap!",
     image: survivalImage,
     icon: <Globe className="w-6 h-6 text-[var(--color-gold-500)]" />,
     players: 1240,

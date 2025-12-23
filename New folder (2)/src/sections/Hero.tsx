@@ -4,8 +4,7 @@ import { Copy, Check } from 'lucide-react';
 import Button from '../components/ui/Button';
 import heroImage from '../assets/hero.webp';
 import arrowSvg from '../assets/arrowup.svg';
-import DiscordIcon from '../components/icons/Discord'; 
-
+import DiscordIcon from '../components/icons/Discord';
 export default function Hero() {
   const [copied, setCopied] = useState(false);
   const ip = "mc.tbfmc.com"; 
@@ -42,7 +41,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg text-slate-600 w-full md:max-w-xl font-sans font-medium leading-relaxed">
-              Experience a vanilla survival world with a friendly community. 
+              Experience a vanilla survival world with a friendly community.
               <span className="font-bold text-navy"> Join the adventure now!</span>
             </p>
 
