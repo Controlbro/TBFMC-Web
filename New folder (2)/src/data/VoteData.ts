@@ -17,36 +17,29 @@ export const voteData: VoteSite[] = [
   {
     id: 1,
     name: "Planet Minecraft",
-    url: "https://www.planetminecraft.com/",
+    url: "https://www.planetminecraft.com/server/tbfmc/",
     image: planetMc,
-    reward: "1x Vote Crate Key + $500"
+    reward: "$1000"
   },
   {
     id: 2,
     name: "Minecraft-MP",
-    url: "https://minecraft-mp.com/",
+    url: "https://minecraft-mp.com/server/352613/vote/",
     image: mcMp,
-    reward: "1x Vote Crate Key + $500"
+    reward: "$1000"
   },
   {
     id: 3,
     name: "TopG",
-    url: "https://topg.org/minecraft-servers/",
+    url: "https://topg.org/minecraft-servers/server-678258",
     image: topG,
-    reward: "1x Vote Crate Key + $500"
+    reward: "$1000"
   },
   {
     id: 4,
     name: "Minecraft Server Net",
-    url: "https://minecraft-server.net/",
+    url: "https://minecraft-server.net/vote/Controlbro/",
     image: mcServerList,
-    reward: "1x Vote Crate Key + $500"
-  },
-  {
-    id: 5,
-    name: "ServerPact",
-    url: "https://www.serverpact.com/",
-    image: serverPact,
-    reward: "1x Vote Crate Key + $500"
+    reward: "$1000"
   }
 ];
