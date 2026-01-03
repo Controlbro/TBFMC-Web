@@ -11,7 +11,7 @@ export const rulesData = [
       "Treat all players and staff with respect. Toxicity and harassment are strictly prohibited.",
       "Inappropriate names (IGNs) or skins containing offensive or NSFW content are not allowed.",
       "Impersonating Staff members or content creators will result in an immediate ban.",
-      "Scamming is prohibited on all servers, except for the Anarchy realm."
+      "Scamming is prohibited on all servers."
     ]
   },
   {
@@ -37,7 +37,7 @@ export const rulesData = [
       "Using Cheat Clients or Hacked Clients (X-Ray, KillAura, Fly, etc.) is strictly banned.",
       "Do not exploit server bugs or glitches. Report them to staff for a reward.",
       "Creating Lag Machines or structures designed to crash the server is prohibited.",
-      "AFK Farming is allowed as long as no external macros or autoclickers are used."
+      "Auto clickers are allowed as long as they are set at a humanly rate. (no more than 20 CPS)."
     ]
   },
   {
@@ -57,7 +57,7 @@ export const rulesData = [
     color: "text-cyan-600",
     bg: "bg-cyan-50",
     rules: [
-      "Allowed: Optifine, Sodium, Minimap (No Entity Radar), Litematica (Printer OFF).",
+      "Allowed: Optifine, Sodium, Minimap, Litematica.",
       "Disallowed: X-Ray Texture Packs, Freecam, Baritone, Killaura.",
       "Using hardware macros (Mouse/Keyboard macros) for PvP is considered cheating."
     ]
