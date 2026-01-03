@@ -29,10 +29,10 @@ export default function Footer() {
             <div>
               <h4 className="font-bold text-[var(--color-navy-900)] mb-6 text-lg">Support</h4>
               <ul className="space-y-4 font-sans text-sm font-medium text-slate-500">
-                <li><a href="https://store.moonveil.net" target="_blank" className="hover:text-[var(--color-gold-500)] transition-colors">Store</a></li>
-                <li><a href="https://vote.moonveil.net" target="_blank" className="hover:text-[var(--color-gold-500)] transition-colors">Vote</a></li>
+                <li><a href="https://store.tbfmc.com" target="_blank" className="hover:text-[var(--color-gold-500)] transition-colors">Store</a></li>
+                <li><a href="https://tbfmc.com/vote" target="_blank" className="hover:text-[var(--color-gold-500)] transition-colors">Vote</a></li>
                 <li><a href="#staff" className="hover:text-[var(--color-gold-500)] transition-colors">Staff Team</a></li>
-                <li><a href="mailto:support@moonveil.net" className="hover:text-[var(--color-gold-500)] transition-colors">Contact Us</a></li>
+                <li><a href="https://discord.com/invite/vSajqg6ChK" className="hover:text-[var(--color-gold-500)] transition-colors">Contact Us</a></li>
               </ul>
             </div>
 
@@ -41,7 +41,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-[var(--color-navy-900)]/5 flex flex-col-reverse md:flex-row justify-between items-center gap-6">
           
           <div className="text-slate-400 font-sans text-sm font-medium text-center md:text-left">
-            © 2025 TBFMC. All rights reserved.
+            © 2026 TBFMC. All rights reserved.
           </div>
           <div className="flex items-center gap-4">
             <SocialLink href="https://discord.gg/vSajqg6ChK" icon={<DiscordIcon />} label="Discord" />
