@@ -24,10 +24,7 @@ export default function Navbar() {
     { name: 'Home', href: '/' },
     { name: 'Map', href: 'http://208.84.101.72:25585' },
     { name: 'Rules', href: '/rules' },
-    { name: 'Store', href: '/store' },
-    { name: 'Staff', href: '/staff' },
-    { name: 'Whitelist', href: '/whitelist' },
-    { name: 'Players', href: '/players' },
+    { name: 'Bans', href: 'https://bans.tbfmc.com' },
     { name: 'Vote', href: '/vote' },
     { name: 'FAQ', href: '/faq' },
   ];
