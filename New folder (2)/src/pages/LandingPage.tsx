@@ -11,9 +11,7 @@ export default function LandingPage() {
     <>
       <Navbar />
       <Hero />
-      <Servers />
       <Feature />
-      <Reviews />
       <Cta />
       <Footer />
     </>
