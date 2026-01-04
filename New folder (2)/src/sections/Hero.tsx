@@ -55,14 +55,14 @@ export default function Hero() {
                 </Button>
 
                 <Button 
-                  href="/whitelist"
+                  href="http://mc.tbfmc.com:25585/"
                   variant="secondary"
                   size="lg"
                   className="w-full sm:w-auto min-w-[180px] shrink-0"
                   icon={<FileText size={20} className="text-white" />}
                   iconPosition="after"
                 >
-                  Apply to Join
+                  Webmap
                 </Button>
 
               </div>
